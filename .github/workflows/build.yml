@@ -79,13 +79,15 @@ jobs:
           echo "APK renamed to: $FULL_NAME"
 
       - name: Upload APK to GitHub (downloads folder)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           APK_FILE="${{ steps.find_apk.outputs.apk_name }}"
           
-          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git repo
+          git clone https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git repo
           cd repo
           
           mkdir -p downloads
