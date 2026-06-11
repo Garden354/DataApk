@@ -6,8 +6,9 @@
     "uploadedFile": "YukakooNeko_1781163000585_am86_base The Shadow One.zip",
     "zipUrl": "https://raw.githubusercontent.com/Garden354/DataApk/main/uploads/YukakooNeko_1781163000585_am86_base%20The%20Shadow%20One.zip",
     "buildType": "unknown",
-    "status": "processing",
-    "createdAt": 1781167232915
+    "status": "failed",
+    "createdAt": 1781167232915,
+    "error": "{\n  \"message\": \"Provided value 'unknown' for input 'build_type' not in the list of allowed values\",\n  \"documentation_url\": \"https://docs.github.com/rest/actions/workflows#create-a-workflow-dispatch-event\",\n  \"status\": \"422\"\n}\n"
   },
   {
     "id": "7gk2",
