@@ -6,7 +6,9 @@
     "uploadedFile": "YukakooNeko_1781167366347_0v5t_base The Shadow One.zip",
     "zipUrl": "https://raw.githubusercontent.com/Garden354/DataApk/main/uploads/YukakooNeko_1781167366347_0v5t_base%20The%20Shadow%20One.zip",
     "buildType": "release",
-    "status": "processing",
-    "createdAt": 1781167389467
+    "status": "completed",
+    "createdAt": 1781167389467,
+    "completedAt": 1781167979740,
+    "artifactUrl": "https://api.github.com/repos/Garden354/DataApk/actions/artifacts/7559344928/zip"
   }
 ]
