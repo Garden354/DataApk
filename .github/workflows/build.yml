@@ -19,6 +19,10 @@ on:
         description: 'Build ID'
         required: true
         type: string
+      zip_name:
+        description: 'Nama file ZIP asli'
+        required: true
+        type: string
 
 jobs:
   build:
@@ -63,16 +67,43 @@ jobs:
             flutter build apk --debug
           fi
 
-      - name: Find APK
+      - name: Find and Rename APK
         id: find_apk
         run: |
           APK_PATH=$(find project/build/app/outputs -name "*.apk" | head -n 1)
-          echo "apk_path=$APK_PATH" >> $GITHUB_OUTPUT
-          echo "APK found at: $APK_PATH"
+          ORIGINAL_NAME="${{ github.event.inputs.zip_name}}"
+          APK_NAME="${ORIGINAL_NAME%.zip}.apk"
+          FULL_NAME="${{ github.event.inputs.build_id}}_${APK_NAME}"
+          cp "$APK_PATH" "$FULL_NAME"
+          echo "apk_name=$FULL_NAME" >> $GITHUB_OUTPUT
+          echo "APK renamed to: $FULL_NAME"
 
-      - name: Upload Artifact
+      - name: Upload APK to GitHub (downloads folder)
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          
+          APK_FILE="${{ steps.find_apk.outputs.apk_name }}"
+          
+          # Clone repo
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git repo
+          cd repo
+          
+          # Pindahin APK ke folder downloads
+          mkdir -p downloads
+          mv ../"$APK_FILE" downloads/"$APK_FILE"
+          
+          # Commit dan push
+          git add downloads/"$APK_FILE"
+          git commit -m "Add APK: $APK_FILE"
+          git push
+          
+          cd ..
+          rm -rf repo
+
+      - name: Upload Artifact (backup)
         uses: actions/upload-artifact@v4
         with:
           name: apk-${{ github.event.inputs.build_id }}
-          path: ${{ steps.find_apk.outputs.apk_path }}
+          path: ${{ steps.find_apk.outputs.apk_name }}
           retention-days: 3
