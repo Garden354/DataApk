@@ -80,20 +80,17 @@ jobs:
 
       - name: Upload APK to GitHub (downloads folder)
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           
           APK_FILE="${{ steps.find_apk.outputs.apk_name }}"
           
-          # Clone repo
           git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git repo
           cd repo
           
-          # Pindahin APK ke folder downloads
           mkdir -p downloads
           mv ../"$APK_FILE" downloads/"$APK_FILE"
           
-          # Commit dan push
           git add downloads/"$APK_FILE"
           git commit -m "Add APK: $APK_FILE"
           git push
