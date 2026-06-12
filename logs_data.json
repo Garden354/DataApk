@@ -1,5 +1,12 @@
 [
   {
+    "id": 1781239052913,
+    "message": "❌ Gagal upload file",
+    "type": "error",
+    "timestamp": 1781239052914,
+    "userKey": "Nekomass"
+  },
+  {
     "id": 1781238911476,
     "message": "📦 Build release untuk: base The Shadow One.zip",
     "type": "info",
