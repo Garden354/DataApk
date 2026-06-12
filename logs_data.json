@@ -1,79 +1,16 @@
 [
   {
-    "id": 1781234890989,
-    "message": "✅ Build base The Shadow One.zip selesai! APK tersedia",
-    "type": "success",
-    "timestamp": 1781234890989,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781234216941,
-    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
-    "type": "info",
-    "timestamp": 1781234216941,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781234216931,
-    "message": "✅ Build release untuk \"base The Shadow One.zip\" berhasil!",
-    "type": "success",
-    "timestamp": 1781234216931,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781234215528,
-    "message": "✅ Workflow triggered!",
-    "type": "success",
-    "timestamp": 1781234215528,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781234212618,
-    "message": "🚀 Trigger GitHub Action...",
-    "type": "info",
-    "timestamp": 1781234212618,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781234210309,
-    "message": "✅ File \"base The Shadow One.zip\" terupload",
-    "type": "success",
-    "timestamp": 1781234210309,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781234186264,
-    "message": "📦 Build release untuk: base The Shadow One.zip",
-    "type": "info",
-    "timestamp": 1781234186264,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781234183079,
-    "message": "File siap: base The Shadow One.zip",
-    "type": "success",
-    "timestamp": 1781234183079,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781225698374,
-    "message": "+30 token untuk YukakooNeko",
-    "type": "success",
-    "timestamp": 1781225698375,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781225507984,
+    "id": 1781236432138,
     "message": "Login berhasil: YukakooNeko",
     "type": "success",
-    "timestamp": 1781225507984,
+    "timestamp": 1781236432138,
     "userKey": "YukakooNeko"
   },
   {
-    "id": 1781225507935,
+    "id": 1781236432056,
     "message": "Mode Admin aktif",
     "type": "success",
-    "timestamp": 1781225507936,
+    "timestamp": 1781236432056,
     "userKey": "YukakooNeko"
   }
 ]
