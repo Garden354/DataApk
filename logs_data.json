@@ -1,79 +1,16 @@
 [
   {
-    "id": 1781271610265,
-    "message": "✅ Build base The Shadow One.zip selesai! APK tersedia",
-    "type": "success",
-    "timestamp": 1781271610265,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781271298891,
-    "message": "+1 token untuk YukakooNeko",
-    "type": "success",
-    "timestamp": 1781271298891,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781271066826,
-    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
-    "type": "info",
-    "timestamp": 1781271066826,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781271066818,
-    "message": "✅ Build release untuk \"base The Shadow One.zip\" berhasil!",
-    "type": "success",
-    "timestamp": 1781271066818,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781271065274,
-    "message": "✅ Workflow triggered!",
-    "type": "success",
-    "timestamp": 1781271065274,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781271063487,
-    "message": "🚀 Trigger GitHub Action...",
-    "type": "info",
-    "timestamp": 1781271063487,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781271061673,
-    "message": "✅ File \"base The Shadow One.zip\" terupload",
-    "type": "success",
-    "timestamp": 1781271061673,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781271048390,
-    "message": "📦 Build release untuk: base The Shadow One.zip",
-    "type": "info",
-    "timestamp": 1781271048390,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781271045418,
-    "message": "File siap: base The Shadow One.zip",
-    "type": "success",
-    "timestamp": 1781271045418,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781270941887,
+    "id": 1781272242317,
     "message": "Login berhasil: YukakooNeko",
     "type": "success",
-    "timestamp": 1781270941888,
+    "timestamp": 1781272242318,
     "userKey": "YukakooNeko"
   },
   {
-    "id": 1781270941802,
+    "id": 1781272242258,
     "message": "Mode Admin aktif",
     "type": "success",
-    "timestamp": 1781270941802,
+    "timestamp": 1781272242259,
     "userKey": "YukakooNeko"
   }
 ]
