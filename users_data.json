@@ -1,12 +1,4 @@
 {
-  "Nekomas": {
-    "key": "Nekomas",
-    "ip": "119.235.212.57",
-    "credit": 5,
-    "lastReset": "Thu Jun 11 2026",
-    "createdAt": 1781156140742,
-    "totalBuilds": 0
-  },
   "YukakooNeko": {
     "key": "YukakooNeko",
     "ip": "119.235.212.57",
@@ -14,12 +6,5 @@
     "lastReset": "Fri Jun 12 2026",
     "createdAt": 1781156184781,
     "totalBuilds": 0
-  },
-  "Nekomass": {
-    "key": "Nekomass",
-    "ip": "114.10.104.145",
-    "credit": 3,
-    "lastReset": "Fri Jun 12 2026",
-    "createdAt": 1781238879759
   }
 }
