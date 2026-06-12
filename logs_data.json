@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": 1781270941887,
+    "message": "Login berhasil: YukakooNeko",
+    "type": "success",
+    "timestamp": 1781270941888,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781270941802,
+    "message": "Mode Admin aktif",
+    "type": "success",
+    "timestamp": 1781270941802,
+    "userKey": "YukakooNeko"
+  }
+]
