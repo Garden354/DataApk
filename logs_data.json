@@ -1,49 +1,49 @@
 [
   {
     "id": 1781274871449,
-    "message": "✅ Build base The Shadow One.zip selesai! APK tersedia",
+    "message": "â Build base The Shadow One.zip selesai! APK tersedia",
     "type": "success",
     "timestamp": 1781274871449,
     "userKey": "YukakooNeko"
   },
   {
     "id": 1781274280624,
-    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
+    "message": "â³ Pantau status di bagian \"Build Berjalan\"",
     "type": "info",
     "timestamp": 1781274280624,
     "userKey": "YukakooNeko"
   },
   {
     "id": 1781274280617,
-    "message": "✅ Build release untuk \"base The Shadow One.zip\" berhasil!",
+    "message": "â Build release untuk \"base The Shadow One.zip\" berhasil!",
     "type": "success",
     "timestamp": 1781274280617,
     "userKey": "YukakooNeko"
   },
   {
     "id": 1781274279701,
-    "message": "✅ Workflow triggered!",
+    "message": "â Workflow triggered!",
     "type": "success",
     "timestamp": 1781274279701,
     "userKey": "YukakooNeko"
   },
   {
     "id": 1781274277981,
-    "message": "🚀 Trigger GitHub Action...",
+    "message": "ð Trigger GitHub Action...",
     "type": "info",
     "timestamp": 1781274277981,
     "userKey": "YukakooNeko"
   },
   {
     "id": 1781274276617,
-    "message": "✅ File \"base The Shadow One.zip\" terupload",
+    "message": "â File \"base The Shadow One.zip\" terupload",
     "type": "success",
     "timestamp": 1781274276618,
     "userKey": "YukakooNeko"
   },
   {
     "id": 1781274262380,
-    "message": "📦 Build release untuk: base The Shadow One.zip",
+    "message": "ð¦ Build release untuk: base The Shadow One.zip",
     "type": "info",
     "timestamp": 1781274262380,
     "userKey": "YukakooNeko"
