@@ -4,8 +4,10 @@
     "userKey": "YukakooNeko",
     "fileName": "base The Shadow One.zip",
     "buildType": "release",
-    "status": "processing",
-    "createdAt": 1781283238222
+    "status": "completed",
+    "createdAt": 1781283238222,
+    "apkUrl": "https://raw.githubusercontent.com/Garden354/DataApk/main/downloads/YukakooNeko_1781283238210_yvs3_base%20The%20Shadow%20One.apk",
+    "completedAt": 1781283882466
   },
   {
     "id": "YukakooNeko_1781274262375_awk4",
