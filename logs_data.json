@@ -1,16 +1,177 @@
 [
   {
-    "id": 1781251190004,
-    "message": "Login berhasil: YukakooNeko",
+    "id": 1781251206165,
+    "message": "File siap: base The Shadow One.zip",
     "type": "success",
-    "timestamp": 1781251190004,
+    "timestamp": 1781251206165,
     "userKey": "YukakooNeko"
   },
   {
-    "id": 1781251189952,
+    "id": 1781245637318,
+    "message": "â Build base The Shadow One.zip selesai! APK tersedia",
+    "type": "success",
+    "timestamp": 1781245637318,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781245080558,
+    "message": "â³ Pantau status di bagian \"Build Berjalan\"",
+    "type": "info",
+    "timestamp": 1781245080558,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781245080550,
+    "message": "â Build release untuk \"base The Shadow One.zip\" berhasil!",
+    "type": "success",
+    "timestamp": 1781245080550,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781245079196,
+    "message": "â Workflow triggered!",
+    "type": "success",
+    "timestamp": 1781245079196,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781245077463,
+    "message": "ð Trigger GitHub Action...",
+    "type": "info",
+    "timestamp": 1781245077463,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781245076128,
+    "message": "â File \"base The Shadow One.zip\" terupload",
+    "type": "success",
+    "timestamp": 1781245076128,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781245054323,
+    "message": "ð¦ Build release untuk: base The Shadow One.zip",
+    "type": "info",
+    "timestamp": 1781245054323,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781245052385,
+    "message": "File siap: base The Shadow One.zip",
+    "type": "success",
+    "timestamp": 1781245052385,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781244911627,
+    "message": "Ã¢ÂÂ File dihapus",
+    "type": "success",
+    "timestamp": 1781244911627,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781244904056,
+    "message": "Ã¢ÂÂ File dihapus",
+    "type": "success",
+    "timestamp": 1781244904056,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781244890026,
+    "message": "Ã¢ÂÂ File dihapus",
+    "type": "success",
+    "timestamp": 1781244890026,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781244885112,
+    "message": "Ã¢ÂÂ File dihapus",
+    "type": "success",
+    "timestamp": 1781244885112,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781244877206,
+    "message": "Ã¢ÂÂ APK dihapus",
+    "type": "success",
+    "timestamp": 1781244877206,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781244871593,
+    "message": "Ã¢ÂÂ APK dihapus",
+    "type": "success",
+    "timestamp": 1781244871593,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781244385205,
+    "message": "ÃÂ¢ÃÂÃÂ Build base The Shadow One.zip selesai! APK tersedia",
+    "type": "success",
+    "timestamp": 1781244385205,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781243963538,
+    "message": "ÃÂ¢ÃÂÃÂ³ Pantau status di bagian \"Build Berjalan\"",
+    "type": "info",
+    "timestamp": 1781243963538,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781243963531,
+    "message": "ÃÂ¢ÃÂÃÂ Build release untuk \"base The Shadow One.zip\" berhasil!",
+    "type": "success",
+    "timestamp": 1781243963531,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781243962582,
+    "message": "ÃÂ¢ÃÂÃÂ Workflow triggered!",
+    "type": "success",
+    "timestamp": 1781243962582,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781243961182,
+    "message": "ÃÂ°ÃÂÃÂÃÂ Trigger GitHub Action...",
+    "type": "info",
+    "timestamp": 1781243961182,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781243959833,
+    "message": "ÃÂ¢ÃÂÃÂ File \"base The Shadow One.zip\" terupload",
+    "type": "success",
+    "timestamp": 1781243959833,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781243935374,
+    "message": "ÃÂ°ÃÂÃÂÃÂ¦ Build release untuk: base The Shadow One.zip",
+    "type": "info",
+    "timestamp": 1781243935374,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781243932746,
+    "message": "File siap: base The Shadow One.zip",
+    "type": "success",
+    "timestamp": 1781243932746,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781241978238,
+    "message": "Login berhasil: YukakooNeko",
+    "type": "success",
+    "timestamp": 1781241978238,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781241978199,
     "message": "Mode Admin aktif",
     "type": "success",
-    "timestamp": 1781251189952,
+    "timestamp": 1781241978199,
     "userKey": "YukakooNeko"
   }
 ]
