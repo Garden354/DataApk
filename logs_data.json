@@ -1,5 +1,19 @@
 [
   {
+    "id": 1781283257137,
+    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
+    "type": "info",
+    "timestamp": 1781283257137,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781283257128,
+    "message": "✅ Build release untuk \"base The Shadow One.zip\" berhasil!",
+    "type": "success",
+    "timestamp": 1781283257128,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781283255821,
     "message": "✅ Workflow triggered!",
     "type": "success",
