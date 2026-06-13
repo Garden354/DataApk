@@ -1,5 +1,12 @@
 [
   {
+    "id": 1781363583736,
+    "message": "✅ Database telah direset total",
+    "type": "success",
+    "timestamp": 1781363583736,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781363581763,
     "message": "✅ Semua file di uploads telah dihapus",
     "type": "success",
