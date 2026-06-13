@@ -1,5 +1,12 @@
 [
   {
+    "id": 1781363307970,
+    "message": "❌ Gagal upload file",
+    "type": "error",
+    "timestamp": 1781363307970,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781363304960,
     "message": "🔄 Status build \"APK-XenopsyllaCheopis.zip\" diubah menjadi failed oleh YukakooNeko",
     "type": "warning",
