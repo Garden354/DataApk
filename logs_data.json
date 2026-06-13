@@ -1,5 +1,33 @@
 [
   {
+    "id": 1781355339487,
+    "message": "✅ Build axfix.zip selesai! APK tersedia",
+    "type": "success",
+    "timestamp": 1781355339487,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781354734691,
+    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
+    "type": "info",
+    "timestamp": 1781354734691,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781354734688,
+    "message": "✅ Build release untuk \"axfix.zip\" berhasil!",
+    "type": "success",
+    "timestamp": 1781354734688,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781354734684,
+    "message": "Build axfix.zip status: building",
+    "type": "info",
+    "timestamp": 1781354734684,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781354733922,
     "message": "✅ Workflow triggered!",
     "type": "success",
