@@ -1,5 +1,19 @@
 [
   {
+    "id": 1781346364932,
+    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
+    "type": "info",
+    "timestamp": 1781346364932,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781346364924,
+    "message": "✅ Build release untuk \"tws.zip\" berhasil!",
+    "type": "success",
+    "timestamp": 1781346364924,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781346363711,
     "message": "✅ Workflow triggered!",
     "type": "success",
