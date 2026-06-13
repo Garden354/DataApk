@@ -1,5 +1,19 @@
 [
   {
+    "id": 1781363304960,
+    "message": "🔄 Status build \"APK-XenopsyllaCheopis.zip\" diubah menjadi failed oleh YukakooNeko",
+    "type": "warning",
+    "timestamp": 1781363304960,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363304954,
+    "message": "Build APK-XenopsyllaCheopis.zip status: failed",
+    "type": "error",
+    "timestamp": 1781363304954,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781363293603,
     "message": "📦 Build release untuk: APK-XenopsyllaCheopis.zip",
     "type": "info",
