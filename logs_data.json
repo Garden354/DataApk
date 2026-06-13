@@ -1,16 +1,149 @@
 [
   {
-    "id": 1781343440176,
-    "message": "Login berhasil: YukakooNeko",
+    "id": 1781342422760,
+    "message": "â Workflow triggered!",
     "type": "success",
-    "timestamp": 1781343440176,
+    "timestamp": 1781342422760,
     "userKey": "YukakooNeko"
   },
   {
-    "id": 1781343440110,
+    "id": 1781342421500,
+    "message": "ð Trigger GitHub Action...",
+    "type": "info",
+    "timestamp": 1781342421500,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781342420193,
+    "message": "â File \"axfix.zip\" terupload",
+    "type": "success",
+    "timestamp": 1781342420193,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781342389574,
+    "message": "ð¦ Build release untuk: axfix.zip",
+    "type": "info",
+    "timestamp": 1781342389574,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781342387268,
+    "message": "File siap: axfix.zip",
+    "type": "success",
+    "timestamp": 1781342387268,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781342026701,
+    "message": "Ã¢ÂÂ³ Pantau status di bagian \"Build Berjalan\"",
+    "type": "info",
+    "timestamp": 1781342026701,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781342026693,
+    "message": "Ã¢ÂÂ Build release untuk \"axfix.zip\" berhasil!",
+    "type": "success",
+    "timestamp": 1781342026693,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781342025064,
+    "message": "Ã¢ÂÂ Workflow triggered!",
+    "type": "success",
+    "timestamp": 1781342025064,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781342023603,
+    "message": "Ã°ÂÂÂ Trigger GitHub Action...",
+    "type": "info",
+    "timestamp": 1781342023603,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781342021910,
+    "message": "Ã¢ÂÂ File \"axfix.zip\" terupload",
+    "type": "success",
+    "timestamp": 1781342021910,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781341989885,
+    "message": "Ã°ÂÂÂ¦ Build release untuk: axfix.zip",
+    "type": "info",
+    "timestamp": 1781341989885,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781341987799,
+    "message": "File siap: axfix.zip",
+    "type": "success",
+    "timestamp": 1781341987799,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781341580649,
+    "message": "ÃÂ¢ÃÂÃÂ³ Pantau status di bagian \"Build Berjalan\"",
+    "type": "info",
+    "timestamp": 1781341580649,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781341580640,
+    "message": "ÃÂ¢ÃÂÃÂ Build release untuk \"axfix.zip\" berhasil!",
+    "type": "success",
+    "timestamp": 1781341580640,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781341579488,
+    "message": "ÃÂ¢ÃÂÃÂ Workflow triggered!",
+    "type": "success",
+    "timestamp": 1781341579488,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781341578090,
+    "message": "ÃÂ°ÃÂÃÂÃÂ Trigger GitHub Action...",
+    "type": "info",
+    "timestamp": 1781341578090,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781341576470,
+    "message": "ÃÂ¢ÃÂÃÂ File \"axfix.zip\" terupload",
+    "type": "success",
+    "timestamp": 1781341576470,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781341559421,
+    "message": "ÃÂ°ÃÂÃÂÃÂ¦ Build release untuk: axfix.zip",
+    "type": "info",
+    "timestamp": 1781341559421,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781341557143,
+    "message": "File siap: axfix.zip",
+    "type": "success",
+    "timestamp": 1781341557143,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781341512658,
+    "message": "Login berhasil: YukakooNeko",
+    "type": "success",
+    "timestamp": 1781341512658,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781341512628,
     "message": "Mode Admin aktif",
     "type": "success",
-    "timestamp": 1781343440111,
+    "timestamp": 1781341512628,
     "userKey": "YukakooNeko"
   }
 ]
