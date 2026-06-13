@@ -4,8 +4,10 @@
     "userKey": "YukakooNeko",
     "fileName": "dev_fix.zip",
     "buildType": "release",
-    "status": "processing",
-    "createdAt": 1781365367233
+    "status": "completed",
+    "createdAt": 1781365367233,
+    "apkUrl": "https://raw.githubusercontent.com/Garden354/DataApk/main/downloads/YukakooNeko_1781365367215_8pkc_dev_fix.apk",
+    "completedAt": 1781365858177
   },
   {
     "id": "YukakooNeko_1781363876025_cbhm",
