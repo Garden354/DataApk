@@ -1,16 +1,128 @@
 [
   {
-    "id": 1781365351299,
-    "message": "Login berhasil: YukakooNeko",
+    "id": 1781365361458,
+    "message": "File siap: dev_fix.zip",
     "type": "success",
-    "timestamp": 1781365351299,
+    "timestamp": 1781365361458,
     "userKey": "YukakooNeko"
   },
   {
-    "id": 1781365351217,
+    "id": 1781364318431,
+    "message": "â Build APK-XenopsyllaCheopis.zip selesai! APK tersedia",
+    "type": "success",
+    "timestamp": 1781364318431,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363895987,
+    "message": "â³ Pantau status di bagian \"Build Berjalan\"",
+    "type": "info",
+    "timestamp": 1781363895987,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363895979,
+    "message": "â Build release untuk \"APK-XenopsyllaCheopis.zip\" berhasil!",
+    "type": "success",
+    "timestamp": 1781363895979,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363895969,
+    "message": "Build APK-XenopsyllaCheopis.zip status: building",
+    "type": "info",
+    "timestamp": 1781363895969,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363894851,
+    "message": "â Workflow triggered!",
+    "type": "success",
+    "timestamp": 1781363894851,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363893461,
+    "message": "ð Trigger GitHub Action...",
+    "type": "info",
+    "timestamp": 1781363893461,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363893442,
+    "message": "Build APK-XenopsyllaCheopis.zip status: processing",
+    "type": "info",
+    "timestamp": 1781363893442,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363891820,
+    "message": "â File \"APK-XenopsyllaCheopis.zip\" terupload",
+    "type": "success",
+    "timestamp": 1781363891820,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363876041,
+    "message": "ð¦ Build release untuk: APK-XenopsyllaCheopis.zip",
+    "type": "info",
+    "timestamp": 1781363876041,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363873799,
+    "message": "File siap: APK-XenopsyllaCheopis.zip",
+    "type": "success",
+    "timestamp": 1781363873799,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363860133,
+    "message": "File siap: APK-XenopsyllaCheopis.zip",
+    "type": "success",
+    "timestamp": 1781363860133,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363660186,
+    "message": "Login berhasil: YukakooNeko",
+    "type": "success",
+    "timestamp": 1781363660186,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363660176,
     "message": "Mode Admin aktif",
     "type": "success",
-    "timestamp": 1781365351217,
+    "timestamp": 1781363660176,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363659326,
+    "message": "Login berhasil: YukakooNeko",
+    "type": "success",
+    "timestamp": 1781363659326,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363659313,
+    "message": "Mode Admin aktif",
+    "type": "success",
+    "timestamp": 1781363659313,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363658586,
+    "message": "Login berhasil: YukakooNeko",
+    "type": "success",
+    "timestamp": 1781363658586,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781363658527,
+    "message": "Mode Admin aktif",
+    "type": "success",
+    "timestamp": 1781363658527,
     "userKey": "YukakooNeko"
   }
 ]
