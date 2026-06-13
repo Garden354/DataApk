@@ -1,65 +1,16 @@
 [
   {
-    "id": 1781347446545,
-    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
-    "type": "info",
-    "timestamp": 1781347446545,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781347446528,
-    "message": "✅ Build release untuk \"tws.zip\" berhasil!",
-    "type": "success",
-    "timestamp": 1781347446528,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781347445398,
-    "message": "✅ Workflow triggered!",
-    "type": "success",
-    "timestamp": 1781347445398,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781347443682,
-    "message": "🚀 Trigger GitHub Action...",
-    "type": "info",
-    "timestamp": 1781347443682,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781347442060,
-    "message": "✅ File \"tws.zip\" terupload",
-    "type": "success",
-    "timestamp": 1781347442060,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781347412299,
-    "message": "📦 Build release untuk: tws.zip",
-    "type": "info",
-    "timestamp": 1781347412299,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781347409963,
-    "message": "File siap: tws.zip",
-    "type": "success",
-    "timestamp": 1781347409963,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781347295838,
+    "id": 1781347993722,
     "message": "Login berhasil: YukakooNeko",
     "type": "success",
-    "timestamp": 1781347295838,
+    "timestamp": 1781347993722,
     "userKey": "YukakooNeko"
   },
   {
-    "id": 1781347295772,
+    "id": 1781347993685,
     "message": "Mode Admin aktif",
     "type": "success",
-    "timestamp": 1781347295772,
+    "timestamp": 1781347993685,
     "userKey": "YukakooNeko"
   }
 ]
