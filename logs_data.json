@@ -1,5 +1,26 @@
 [
   {
+    "id": 1781365380552,
+    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
+    "type": "info",
+    "timestamp": 1781365380552,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781365380547,
+    "message": "✅ Build release untuk \"dev_fix.zip\" berhasil!",
+    "type": "success",
+    "timestamp": 1781365380547,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781365380539,
+    "message": "Build dev_fix.zip status: building",
+    "type": "info",
+    "timestamp": 1781365380539,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781365379307,
     "message": "✅ Workflow triggered!",
     "type": "success",
