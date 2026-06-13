@@ -1,5 +1,26 @@
 [
   {
+    "id": 1781348053539,
+    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
+    "type": "info",
+    "timestamp": 1781348053539,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781348053530,
+    "message": "✅ Build release untuk \"axfix.zip\" berhasil!",
+    "type": "success",
+    "timestamp": 1781348053530,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781348052398,
+    "message": "✅ Workflow triggered!",
+    "type": "success",
+    "timestamp": 1781348052398,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781348050534,
     "message": "🚀 Trigger GitHub Action...",
     "type": "info",
