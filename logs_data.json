@@ -1,5 +1,12 @@
 [
   {
+    "id": 1781365859701,
+    "message": "✅ Build dev_fix.zip selesai! APK tersedia",
+    "type": "success",
+    "timestamp": 1781365859701,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781365380552,
     "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
     "type": "info",
