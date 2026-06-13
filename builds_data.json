@@ -4,8 +4,10 @@
     "userKey": "YukakooNeko",
     "fileName": "axfix.zip",
     "buildType": "release",
-    "status": "building",
-    "createdAt": 1781354717532
+    "status": "completed",
+    "createdAt": 1781354717532,
+    "apkUrl": "https://raw.githubusercontent.com/Garden354/DataApk/main/downloads/YukakooNeko_1781354717525_bjhe_axfix.apk",
+    "completedAt": 1781355338379
   },
   {
     "id": "YukakooNeko_1781351945919_7xxe",
