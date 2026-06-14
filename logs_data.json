@@ -1,30 +1,16 @@
 [
   {
-    "id": 1781456327294,
+    "id": 1781456359196,
     "message": "Login berhasil: YukakooNeko",
     "type": "success",
-    "timestamp": 1781456327294,
+    "timestamp": 1781456359196,
     "userKey": "YukakooNeko"
   },
   {
-    "id": 1781456327280,
+    "id": 1781456359135,
     "message": "Mode Admin aktif",
     "type": "success",
-    "timestamp": 1781456327280,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781456326101,
-    "message": "Login berhasil: YukakooNeko",
-    "type": "success",
-    "timestamp": 1781456326101,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781456326079,
-    "message": "Mode Admin aktif",
-    "type": "success",
-    "timestamp": 1781456326079,
+    "timestamp": 1781456359136,
     "userKey": "YukakooNeko"
   }
 ]
