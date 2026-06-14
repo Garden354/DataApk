@@ -1,5 +1,19 @@
 [
   {
+    "id": 1781456394719,
+    "message": "✅ File \"APK-XenopsyllaCheopis.zip\" terupload",
+    "type": "success",
+    "timestamp": 1781456394719,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781456376844,
+    "message": "📦 Build release untuk: APK-XenopsyllaCheopis.zip",
+    "type": "info",
+    "timestamp": 1781456376844,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781456374779,
     "message": "File siap: APK-XenopsyllaCheopis.zip",
     "type": "success",
