@@ -1,93 +1,16 @@
 [
   {
-    "id": 1781430132929,
-    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
-    "type": "info",
-    "timestamp": 1781430132929,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781430132922,
-    "message": "✅ Build release untuk \"BASE ASTRAL ENGINE (1).zip\" berhasil!",
-    "type": "success",
-    "timestamp": 1781430132922,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781430132911,
-    "message": "Build BASE ASTRAL ENGINE (1).zip status: building",
-    "type": "info",
-    "timestamp": 1781430132911,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781430131733,
-    "message": "✅ Workflow triggered!",
-    "type": "success",
-    "timestamp": 1781430131733,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781430130373,
-    "message": "🚀 Trigger GitHub Action...",
-    "type": "info",
-    "timestamp": 1781430130373,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781430130366,
-    "message": "Build BASE ASTRAL ENGINE (1).zip status: processing",
-    "type": "info",
-    "timestamp": 1781430130366,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781430129136,
-    "message": "✅ File \"BASE ASTRAL ENGINE (1).zip\" terupload",
-    "type": "success",
-    "timestamp": 1781430129136,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781430118517,
-    "message": "📦 Build release untuk: BASE ASTRAL ENGINE (1).zip",
-    "type": "info",
-    "timestamp": 1781430118517,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781430115586,
-    "message": "File siap: BASE ASTRAL ENGINE (1).zip",
-    "type": "success",
-    "timestamp": 1781430115586,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781430106339,
-    "message": "🔄 Status build \"BASE ASTRAL ENGINE (1).zip\" diubah menjadi failed oleh YukakooNeko",
-    "type": "warning",
-    "timestamp": 1781430106339,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781430106319,
-    "message": "Build BASE ASTRAL ENGINE (1).zip status: failed",
-    "type": "error",
-    "timestamp": 1781430106319,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781430099488,
+    "id": 1781430666596,
     "message": "Login berhasil: YukakooNeko",
     "type": "success",
-    "timestamp": 1781430099488,
+    "timestamp": 1781430666596,
     "userKey": "YukakooNeko"
   },
   {
-    "id": 1781430099441,
+    "id": 1781430666505,
     "message": "Mode Admin aktif",
     "type": "success",
-    "timestamp": 1781430099442,
+    "timestamp": 1781430666505,
     "userKey": "YukakooNeko"
   }
 ]
