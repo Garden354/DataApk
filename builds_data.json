@@ -4,8 +4,10 @@
     "userKey": "YukakooNeko",
     "fileName": "BASE ASTRAL ENGINE (1).zip",
     "buildType": "release",
-    "status": "building",
-    "createdAt": 1781430680487
+    "status": "completed",
+    "createdAt": 1781430680487,
+    "apkUrl": "https://raw.githubusercontent.com/Garden354/DataApk/main/downloads/YukakooNeko_1781430680468_cx3o_BASE%20ASTRAL%20ENGINE%20(1).apk",
+    "completedAt": 1781431198063
   },
   {
     "id": "YukakooNeko_1781430118504_gdg2",
