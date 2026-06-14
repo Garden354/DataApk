@@ -1,5 +1,40 @@
 [
   {
+    "id": 1781454411302,
+    "message": "🔄 Status build \"base phising astral.zip\" diubah menjadi failed oleh YukakooNeko",
+    "type": "warning",
+    "timestamp": 1781454411302,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781454411291,
+    "message": "Build base phising astral.zip status: failed",
+    "type": "error",
+    "timestamp": 1781454411291,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781453417707,
+    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
+    "type": "info",
+    "timestamp": 1781453417707,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781453417701,
+    "message": "✅ Build release untuk \"base phising astral.zip\" berhasil!",
+    "type": "success",
+    "timestamp": 1781453417701,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781453417696,
+    "message": "Build base phising astral.zip status: building",
+    "type": "info",
+    "timestamp": 1781453417696,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781453416831,
     "message": "✅ Workflow triggered!",
     "type": "success",
