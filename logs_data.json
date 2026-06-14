@@ -1,5 +1,40 @@
 [
   {
+    "id": 1781454448863,
+    "message": "🔄 Status build \"BASE ASTRAL ENGINE (1).zip\" diubah menjadi failed oleh YukakooNeko",
+    "type": "warning",
+    "timestamp": 1781454448863,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781454448853,
+    "message": "Build BASE ASTRAL ENGINE (1).zip status: failed",
+    "type": "error",
+    "timestamp": 1781454448853,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781454440575,
+    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
+    "type": "info",
+    "timestamp": 1781454440575,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781454440568,
+    "message": "✅ Build release untuk \"APK-XenopsyllaCheopis.zip\" berhasil!",
+    "type": "success",
+    "timestamp": 1781454440568,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781454440558,
+    "message": "Build APK-XenopsyllaCheopis.zip status: building",
+    "type": "info",
+    "timestamp": 1781454440558,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781454439318,
     "message": "✅ Workflow triggered!",
     "type": "success",
