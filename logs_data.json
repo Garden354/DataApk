@@ -1,5 +1,19 @@
 [
   {
+    "id": 1781456360395,
+    "message": "Login berhasil: YukakooNeko",
+    "type": "success",
+    "timestamp": 1781456360395,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781456360389,
+    "message": "Mode Admin aktif",
+    "type": "success",
+    "timestamp": 1781456360389,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781456359196,
     "message": "Login berhasil: YukakooNeko",
     "type": "success",
