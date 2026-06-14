@@ -1,5 +1,19 @@
 [
   {
+    "id": 1781454412600,
+    "message": "🔄 Status build \"BASE ASTRAL ENGINE (1).zip\" diubah menjadi failed oleh YukakooNeko",
+    "type": "warning",
+    "timestamp": 1781454412600,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781454412591,
+    "message": "Build BASE ASTRAL ENGINE (1).zip status: failed",
+    "type": "error",
+    "timestamp": 1781454412591,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781454411302,
     "message": "🔄 Status build \"base phising astral.zip\" diubah menjadi failed oleh YukakooNeko",
     "type": "warning",
