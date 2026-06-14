@@ -4,8 +4,10 @@
     "userKey": "YukakooNeko",
     "fileName": "APK-XenopsyllaCheopis.zip",
     "buildType": "release",
-    "status": "building",
-    "createdAt": 1781454426624
+    "status": "completed",
+    "createdAt": 1781454426624,
+    "apkUrl": "https://raw.githubusercontent.com/Garden354/DataApk/main/downloads/YukakooNeko_1781454426614_9fpb_APK-XenopsyllaCheopis.apk",
+    "completedAt": 1781455391980
   },
   {
     "id": "YukakooNeko_1781453401881_vvtx",
