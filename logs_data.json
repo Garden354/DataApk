@@ -1,5 +1,26 @@
 [
   {
+    "id": 1781431557980,
+    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
+    "type": "info",
+    "timestamp": 1781431557980,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781431557972,
+    "message": "✅ Build release untuk \"BASE ASTRAL ENGINE (1).zip\" berhasil!",
+    "type": "success",
+    "timestamp": 1781431557972,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781431557962,
+    "message": "Build BASE ASTRAL ENGINE (1).zip status: building",
+    "type": "info",
+    "timestamp": 1781431557962,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781431556702,
     "message": "✅ Workflow triggered!",
     "type": "success",
