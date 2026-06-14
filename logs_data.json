@@ -1,58 +1,30 @@
 [
   {
-    "id": 1781429257124,
-    "message": "â Workflow triggered!",
-    "type": "success",
-    "timestamp": 1781429257124,
+    "id": 1781430106339,
+    "message": "🔄 Status build \"BASE ASTRAL ENGINE (1).zip\" diubah menjadi failed oleh YukakooNeko",
+    "type": "warning",
+    "timestamp": 1781430106339,
     "userKey": "YukakooNeko"
   },
   {
-    "id": 1781429255514,
-    "message": "ð Trigger GitHub Action...",
-    "type": "info",
-    "timestamp": 1781429255514,
+    "id": 1781430106319,
+    "message": "Build BASE ASTRAL ENGINE (1).zip status: failed",
+    "type": "error",
+    "timestamp": 1781430106319,
     "userKey": "YukakooNeko"
   },
   {
-    "id": 1781429255504,
-    "message": "Build BASE ASTRAL ENGINE (1).zip status: processing",
-    "type": "info",
-    "timestamp": 1781429255504,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781429254371,
-    "message": "â File \"BASE ASTRAL ENGINE (1).zip\" terupload",
-    "type": "success",
-    "timestamp": 1781429254371,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781429244036,
-    "message": "ð¦ Build release untuk: BASE ASTRAL ENGINE (1).zip",
-    "type": "info",
-    "timestamp": 1781429244036,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781429241613,
-    "message": "File siap: BASE ASTRAL ENGINE (1).zip",
-    "type": "success",
-    "timestamp": 1781429241613,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781377740430,
+    "id": 1781430099488,
     "message": "Login berhasil: YukakooNeko",
     "type": "success",
-    "timestamp": 1781377740430,
+    "timestamp": 1781430099488,
     "userKey": "YukakooNeko"
   },
   {
-    "id": 1781377740343,
+    "id": 1781430099441,
     "message": "Mode Admin aktif",
     "type": "success",
-    "timestamp": 1781377740343,
+    "timestamp": 1781430099442,
     "userKey": "YukakooNeko"
   }
 ]
