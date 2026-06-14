@@ -1,23 +1,16 @@
 [
   {
-    "id": 1781455393219,
-    "message": "✅ Build APK-XenopsyllaCheopis.zip selesai! APK tersedia",
-    "type": "success",
-    "timestamp": 1781455393219,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781455376856,
+    "id": 1781455959515,
     "message": "Login berhasil: YukakooNeko",
     "type": "success",
-    "timestamp": 1781455376856,
+    "timestamp": 1781455959515,
     "userKey": "YukakooNeko"
   },
   {
-    "id": 1781455376764,
+    "id": 1781455959417,
     "message": "Mode Admin aktif",
     "type": "success",
-    "timestamp": 1781455376764,
+    "timestamp": 1781455959417,
     "userKey": "YukakooNeko"
   }
 ]
