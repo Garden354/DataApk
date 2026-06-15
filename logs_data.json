@@ -1,5 +1,12 @@
 [
   {
+    "id": 1781501800083,
+    "message": "✅ Workflow triggered!",
+    "type": "success",
+    "timestamp": 1781501800083,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781501798427,
     "message": "🚀 Trigger GitHub Action...",
     "type": "info",
