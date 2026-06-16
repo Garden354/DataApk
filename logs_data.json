@@ -1,5 +1,19 @@
 [
   {
+    "id": 1781637905088,
+    "message": "🔄 Status build \"RAT-XenopsyllaCheopis.zip\" diubah menjadi failed oleh YukakooNeko",
+    "type": "warning",
+    "timestamp": 1781637905088,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781637905077,
+    "message": "Build RAT-XenopsyllaCheopis.zip status: failed",
+    "type": "error",
+    "timestamp": 1781637905077,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781637885328,
     "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
     "type": "info",
