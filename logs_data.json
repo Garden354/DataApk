@@ -1,93 +1,16 @@
 [
   {
-    "id": 1781637905088,
-    "message": "🔄 Status build \"RAT-XenopsyllaCheopis.zip\" diubah menjadi failed oleh YukakooNeko",
-    "type": "warning",
-    "timestamp": 1781637905088,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637905077,
-    "message": "Build RAT-XenopsyllaCheopis.zip status: failed",
-    "type": "error",
-    "timestamp": 1781637905077,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637885328,
-    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
-    "type": "info",
-    "timestamp": 1781637885328,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637885320,
-    "message": "✅ Build release untuk \"RAT-XenopsyllaCheopis.zip\" berhasil!",
-    "type": "success",
-    "timestamp": 1781637885320,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637885308,
-    "message": "Build RAT-XenopsyllaCheopis.zip status: building",
-    "type": "info",
-    "timestamp": 1781637885308,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637884045,
-    "message": "✅ Workflow triggered!",
-    "type": "success",
-    "timestamp": 1781637884045,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637882497,
-    "message": "🚀 Trigger GitHub Action...",
-    "type": "info",
-    "timestamp": 1781637882497,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637882479,
-    "message": "Build RAT-XenopsyllaCheopis.zip status: processing",
-    "type": "info",
-    "timestamp": 1781637882479,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637881172,
-    "message": "✅ File \"RAT-XenopsyllaCheopis.zip\" terupload",
-    "type": "success",
-    "timestamp": 1781637881172,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637869918,
-    "message": "📦 Build release untuk: RAT-XenopsyllaCheopis.zip",
-    "type": "info",
-    "timestamp": 1781637869918,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637867977,
-    "message": "File siap: RAT-XenopsyllaCheopis.zip",
-    "type": "success",
-    "timestamp": 1781637867977,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637569051,
+    "id": 1781637942575,
     "message": "Login berhasil: YukakooNeko",
     "type": "success",
-    "timestamp": 1781637569051,
+    "timestamp": 1781637942575,
     "userKey": "YukakooNeko"
   },
   {
-    "id": 1781637568997,
+    "id": 1781637942541,
     "message": "Mode Admin aktif",
     "type": "success",
-    "timestamp": 1781637568997,
+    "timestamp": 1781637942541,
     "userKey": "YukakooNeko"
   }
 ]
