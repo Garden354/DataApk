@@ -1,16 +1,9 @@
 [
   {
-    "id": 1781637055784,
-    "message": "Login berhasil: YukakooNeko",
+    "id": 1781637071665,
+    "message": "File siap: RAT-XenopsyllaCheopis.zip",
     "type": "success",
-    "timestamp": 1781637055784,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637055725,
-    "message": "Mode Admin aktif",
-    "type": "success",
-    "timestamp": 1781637055725,
+    "timestamp": 1781637071665,
     "userKey": "YukakooNeko"
   }
 ]
