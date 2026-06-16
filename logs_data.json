@@ -1,5 +1,12 @@
 [
   {
+    "id": 1781637869918,
+    "message": "📦 Build release untuk: RAT-XenopsyllaCheopis.zip",
+    "type": "info",
+    "timestamp": 1781637869918,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781637867977,
     "message": "File siap: RAT-XenopsyllaCheopis.zip",
     "type": "success",
