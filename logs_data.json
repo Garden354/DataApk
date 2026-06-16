@@ -1,5 +1,33 @@
 [
   {
+    "id": 1781637885328,
+    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
+    "type": "info",
+    "timestamp": 1781637885328,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781637885320,
+    "message": "✅ Build release untuk \"RAT-XenopsyllaCheopis.zip\" berhasil!",
+    "type": "success",
+    "timestamp": 1781637885320,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781637885308,
+    "message": "Build RAT-XenopsyllaCheopis.zip status: building",
+    "type": "info",
+    "timestamp": 1781637885308,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781637884045,
+    "message": "✅ Workflow triggered!",
+    "type": "success",
+    "timestamp": 1781637884045,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781637882497,
     "message": "🚀 Trigger GitHub Action...",
     "type": "info",
