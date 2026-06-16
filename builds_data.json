@@ -4,8 +4,10 @@
     "userKey": "YukakooNeko",
     "fileName": "RAT-XenopsyllaCheopis.zip",
     "buildType": "release",
-    "status": "building",
-    "createdAt": 1781637869920
+    "status": "completed",
+    "createdAt": 1781637869920,
+    "apkUrl": "https://raw.githubusercontent.com/Garden354/DataApk/main/downloads/YukakooNeko_1781637869910_7gin_RAT-XenopsyllaCheopis.apk",
+    "completedAt": 1781638557699
   },
   {
     "id": "YukakooNeko_1781637073882_e2uq",
