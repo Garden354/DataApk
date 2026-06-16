@@ -1,65 +1,16 @@
 [
   {
-    "id": 1781637091368,
-    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
-    "type": "info",
-    "timestamp": 1781637091368,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637091359,
-    "message": "✅ Build release untuk \"RAT-XenopsyllaCheopis.zip\" berhasil!",
+    "id": 1781637569051,
+    "message": "Login berhasil: YukakooNeko",
     "type": "success",
-    "timestamp": 1781637091359,
+    "timestamp": 1781637569051,
     "userKey": "YukakooNeko"
   },
   {
-    "id": 1781637091346,
-    "message": "Build RAT-XenopsyllaCheopis.zip status: building",
-    "type": "info",
-    "timestamp": 1781637091346,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637089467,
-    "message": "✅ Workflow triggered!",
+    "id": 1781637568997,
+    "message": "Mode Admin aktif",
     "type": "success",
-    "timestamp": 1781637089467,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637087670,
-    "message": "🚀 Trigger GitHub Action...",
-    "type": "info",
-    "timestamp": 1781637087670,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637087652,
-    "message": "Build RAT-XenopsyllaCheopis.zip status: processing",
-    "type": "info",
-    "timestamp": 1781637087652,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637086053,
-    "message": "✅ File \"RAT-XenopsyllaCheopis.zip\" terupload",
-    "type": "success",
-    "timestamp": 1781637086053,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637073905,
-    "message": "📦 Build release untuk: RAT-XenopsyllaCheopis.zip",
-    "type": "info",
-    "timestamp": 1781637073905,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781637071665,
-    "message": "File siap: RAT-XenopsyllaCheopis.zip",
-    "type": "success",
-    "timestamp": 1781637071665,
+    "timestamp": 1781637568997,
     "userKey": "YukakooNeko"
   }
 ]
