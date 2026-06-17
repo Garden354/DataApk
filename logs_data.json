@@ -1,5 +1,33 @@
 [
   {
+    "id": 1781688029040,
+    "message": "✅ Build APK-XenopsyllaCheopis.zip selesai! APK tersedia",
+    "type": "success",
+    "timestamp": 1781688029040,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781687493577,
+    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
+    "type": "info",
+    "timestamp": 1781687493577,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781687493571,
+    "message": "✅ Build release untuk \"APK-XenopsyllaCheopis.zip\" berhasil!",
+    "type": "success",
+    "timestamp": 1781687493571,
+    "userKey": "YukakooNeko"
+  },
+  {
+    "id": 1781687493562,
+    "message": "Build APK-XenopsyllaCheopis.zip status: building",
+    "type": "info",
+    "timestamp": 1781687493562,
+    "userKey": "YukakooNeko"
+  },
+  {
     "id": 1781687492617,
     "message": "✅ Workflow triggered!",
     "type": "success",
