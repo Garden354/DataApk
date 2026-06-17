@@ -1,79 +1,16 @@
 [
   {
-    "id": 1781669629957,
-    "message": "⏳ Pantau status di bagian \"Build Berjalan\"",
-    "type": "info",
-    "timestamp": 1781669629957,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781669629950,
-    "message": "✅ Build release untuk \"APK-XenopsyllaCheopis.zip\" berhasil!",
-    "type": "success",
-    "timestamp": 1781669629950,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781669629943,
-    "message": "Build APK-XenopsyllaCheopis.zip status: building",
-    "type": "info",
-    "timestamp": 1781669629943,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781669629004,
-    "message": "✅ Workflow triggered!",
-    "type": "success",
-    "timestamp": 1781669629004,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781669627399,
-    "message": "🚀 Trigger GitHub Action...",
-    "type": "info",
-    "timestamp": 1781669627399,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781669627391,
-    "message": "Build APK-XenopsyllaCheopis.zip status: processing",
-    "type": "info",
-    "timestamp": 1781669627391,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781669626284,
-    "message": "✅ File \"APK-XenopsyllaCheopis.zip\" terupload",
-    "type": "success",
-    "timestamp": 1781669626284,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781669615617,
-    "message": "📦 Build release untuk: APK-XenopsyllaCheopis.zip",
-    "type": "info",
-    "timestamp": 1781669615617,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781669613361,
-    "message": "File siap: APK-XenopsyllaCheopis.zip",
-    "type": "success",
-    "timestamp": 1781669613361,
-    "userKey": "YukakooNeko"
-  },
-  {
-    "id": 1781638563062,
+    "id": 1781670714556,
     "message": "Login berhasil: YukakooNeko",
     "type": "success",
-    "timestamp": 1781638563062,
+    "timestamp": 1781670714556,
     "userKey": "YukakooNeko"
   },
   {
-    "id": 1781638562970,
+    "id": 1781670714501,
     "message": "Mode Admin aktif",
     "type": "success",
-    "timestamp": 1781638562970,
+    "timestamp": 1781670714501,
     "userKey": "YukakooNeko"
   }
 ]
